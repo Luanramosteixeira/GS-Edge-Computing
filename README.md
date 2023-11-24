@@ -23,30 +23,6 @@ Além disso, a solução é flexível e pode ser personalizada para atender às 
 Objetivo do Código:
 
 O código desenvolvido tem como objetivo primordial criar um sistema eficiente e em tempo real para a identificação de quedas em idosos. Ao integrar sensores de aceleração em dispositivos wearable com o FreeRTOS, buscamos proporcionar uma solução robusta que analise continuamente os dados de movimento, identificando padrões característicos de quedas. O propósito é acionar alertas imediatos, garantindo assistência rápida e contribuindo para a segurança e tranquilidade dos idosos e de seus cuidadores. O código não apenas detecta quedas, mas também é projetado para ser personalizável, oferecendo uma resposta adaptável às necessidades individuais, promovendo, assim, um ambiente mais seguro e prevenindo potenciais riscos à saúde dos idosos.
-
-
-
-
-
-
 ![image](https://github.com/Luanramosteixeira/GS-Edge-Computing/assets/127518329/c85505bf-7e7c-4cf4-9743-294f63d4adfb)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 LINK DO VIDEO:
 LINK DO CODIGO:

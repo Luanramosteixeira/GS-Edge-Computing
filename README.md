@@ -15,3 +15,11 @@ A implementação inclui a escolha cuidadosa de dispositivos wearable e a integr
 O algoritmo de detecção de quedas, parte central da solução, é desenvolvido para analisar padrões específicos de movimento associados a quedas, garantindo precisão na identificação do evento. Quando uma queda é detectada, o sistema aciona alertas imediatos, notificando cuidadores ou contatos de emergência.
 
 Além disso, a solução é flexível e pode ser personalizada para atender às necessidades específicas dos usuários, permitindo a configuração de parâmetros e a expansão de recursos para fornecer uma resposta abrangente em situações de emergência, contribuindo assim para a segurança e bem-estar dos idosos.
+
+
+
+
+
+Objetivo do Código:
+
+O código desenvolvido tem como objetivo primordial criar um sistema eficiente e em tempo real para a identificação de quedas em idosos. Ao integrar sensores de aceleração em dispositivos wearable com o FreeRTOS, buscamos proporcionar uma solução robusta que analise continuamente os dados de movimento, identificando padrões característicos de quedas. O propósito é acionar alertas imediatos, garantindo assistência rápida e contribuindo para a segurança e tranquilidade dos idosos e de seus cuidadores. O código não apenas detecta quedas, mas também é projetado para ser personalizável, oferecendo uma resposta adaptável às necessidades individuais, promovendo, assim, um ambiente mais seguro e prevenindo potenciais riscos à saúde dos idosos.

@@ -26,4 +26,5 @@ O código desenvolvido tem como objetivo primordial criar um sistema eficiente e
 ![image](https://github.com/Luanramosteixeira/GS-Edge-Computing/assets/127518329/c85505bf-7e7c-4cf4-9743-294f63d4adfb)
 
 LINK DO VIDEO: https://youtu.be/YLsJ5IXo5T4?si=T-6ngqA4-cJg8vM_
+
 LINK DO CODIGO: https://wokwi.com/projects/382314080792903681

@@ -1,4 +1,9 @@
 # GS-Edge-Computing
+
+1. Luan Ramos Teixeira – rm99696
+2. Eduardo Osorio Filho -rm550161
+   
+
 O envelhecimento da população traz consigo desafios significativos em relação à segurança e cuidado dos idosos. Um problema crítico enfrentado por aqueles que prestam assistência a essa parcela da população é a identificação imediata de quedas. Quedas entre idosos podem resultar em lesões sérias, diminuindo sua qualidade de vida e, em alguns casos, desencadeando situações de emergência médica. A dificuldade muitas vezes reside na incapacidade dos idosos de comunicar prontamente uma queda, exigindo soluções inovadoras para detectar e responder a esse evento de forma rápida e eficaz.
 
 Uma Visão Geral da Solução Proposta:

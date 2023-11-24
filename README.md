@@ -27,4 +27,4 @@ O código desenvolvido tem como objetivo primordial criar um sistema eficiente e
 
 LINK DO VIDEO:
 
-LINK DO CODIGO:
+LINK DO CODIGO: https://wokwi.com/projects/382314080792903681
